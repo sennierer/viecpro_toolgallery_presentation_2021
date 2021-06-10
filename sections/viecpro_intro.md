@@ -20,7 +20,7 @@ https://sennierer.github.io/viecpro_toolgallery_presentation_2021/ <!-- .element
 
 +++
 
-#### Several interoperable tools
+### Several interoperable tools
 
 * [APIS](https://apis.acdh.oeaw.ac.at): entity store with several plugins (annotation, references etc.)
 	- Plugins for: Atom (TEI editing), GDoc and Word
@@ -31,7 +31,7 @@ https://sennierer.github.io/viecpro_toolgallery_presentation_2021/ <!-- .element
 
 +++
 
-#### Several interoperable tools II
+### Several interoperable tools II
 
 * [Omnipot](https://omnipot.acdh-dev.oeaw.ac.at/): Researchspace based knowledgebase that combines data from different sources
 * [Nerdpool](https://nerdpool.acdh-dev.oeaw.ac.at/): Service to spawn prodigy instances for training NLP models
@@ -39,7 +39,17 @@ https://sennierer.github.io/viecpro_toolgallery_presentation_2021/ <!-- .element
 
 +++
 
-#### VieCPro project requirements
+### "Wiener Hof" projects@IHB
+
+* VieCPro: Marion Romberg & Maximilian Kaiser (Innovationsfond)
+* Der Wiener Hof: Eliten, Herrschaft und Repräsentation: Katrin Keller (FWF)
+* Family Matters. Dynastic Agency in the Correspondence of Empress Eleonora
+Magdalena of Pfalz-Neuburg: Katrin Keller (FWF)
+
+
++++
+
+### VieCPro project requirements
 
 * Prosopographical Database <!-- .element: class="fragment" -->
 * extendable for more datasets to come <!-- .element: class="fragment" -->
