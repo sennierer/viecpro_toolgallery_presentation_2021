@@ -1,4 +1,4 @@
-#### TOC
+### TOC
 
 <span style="font-size: 0.7em">
 
@@ -7,10 +7,12 @@
 * APIS & apps built on APIS <!-- .element: class="fragment" -->
 * VieCPro workflow <!-- .element: class="fragment" -->
 * VieCPro NLP pipeline <!-- .element: class="fragment" -->
+* VieCPro modelling <!-- .element: class="fragment" -->
+* Still to come <!-- .element: class="fragment" -->
 
-</span>
     
-https://sennierer.github.io/viecpro_kickoff_2021/ <!-- .element: class="fragment" -->
+https://sennierer.github.io/viecpro_toolgallery_presentation_2021/ <!-- .element: class="fragment" -->
+</span>
 
 +++
 
