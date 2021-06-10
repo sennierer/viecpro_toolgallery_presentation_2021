@@ -19,6 +19,6 @@ implementation (in eg RDF)<!-- .element: class="fragment" -->
 ### Shortcomings of CIDOC CRM
 * No versioning for the "official versions" published on the CIDOC CRM website
 \>\> every class resolves to version 5.0.4<!-- .element: class="fragment" -->
-* Not all extensions compatible with ERLANGEN CRM<!-- .element: class="fragment" -->
+* Not all extensions compatible with Erlangen CRM<!-- .element: class="fragment" -->
 * no native possibility to add simple attributes >> BioCRM unary role<!-- .element: class="fragment" -->
 * fairly complex RDFs (eg 5 nodes + edges for modelling a birth event)<!-- .element: class="fragment" -->
