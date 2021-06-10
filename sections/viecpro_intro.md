@@ -2,10 +2,10 @@
 
 <span style="font-size: 0.7em">
 
-* VieCPro project requirements <!-- .element: class="fragment" -->
 * ACDH-CH infrastructure and tools <!-- .element: class="fragment" -->
 * APIS & apps built on APIS <!-- .element: class="fragment" -->
 * Viennese Court@IHB <!-- .element: class="fragment" -->
+* VieCPro project requirements <!-- .element: class="fragment" -->
 * VieCPro workflow <!-- .element: class="fragment" -->
 * VieCPro NLP pipeline <!-- .element: class="fragment" -->
 * VieCPro modelling <!-- .element: class="fragment" -->
